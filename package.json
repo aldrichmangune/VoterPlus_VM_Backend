@@ -26,7 +26,7 @@
   "devDependencies": {
     "blind-signatures": "^1.0.6",
     "chai": "^4.2.0",
-    "mocha": "^7.1.0",
+    "mocha": "^10.2.0",
     "mongodb": "^3.5.2",
     "nodemon": "^2.0.2",
     "promise": "^8.0.3"
